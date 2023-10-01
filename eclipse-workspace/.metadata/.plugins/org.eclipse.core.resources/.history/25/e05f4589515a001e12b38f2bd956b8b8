@@ -1,0 +1,17 @@
+import java.util.Locale;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int y = 32;
+		double x = 10.35784;
+		System.out.println("O valor de y =" + y);
+		System.out.println("O valor de x =" + x);
+		System.out.printf("O valor de x = %.2f m%n", x);
+		Locale.setDefault(Locale.US);
+		System.out.printf("O valor de x = %.4f metros%n", x);
+
+	}
+
+}
