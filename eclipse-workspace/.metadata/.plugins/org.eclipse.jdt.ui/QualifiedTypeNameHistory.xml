@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="entities.Rectangle"/>
-    <fullyQualifiedTypeName name="entities.Employee"/>
-    <fullyQualifiedTypeName name="java.util.Locale.Builder"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-<<<<<<< HEAD
-=======
-    <fullyQualifiedTypeName name="java.lang.System"/>
->>>>>>> e514c7419354ea6224965061e321dd83329f7a13
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.Student"/>
+    <fullyQualifiedTypeName name="util.CurrencyConverter"/>
 </qualifiedTypeNameHistroy>
