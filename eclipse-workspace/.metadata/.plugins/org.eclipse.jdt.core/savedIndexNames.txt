@@ -8,4 +8,3 @@ INDEX VERSION 1.134+C:\GitHub\Java-Curso-NelioAlves-Udemy\eclipse-workspace\.met
 1130909074.index
 1865797976.index
 3510846143.index
-3453313424.index
