@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;aplication.Rectangle&apos; to &apos;Program&apos;&#x0D;&#x0A;- Original project: &apos;AreaRectangle&apos;&#x0D;&#x0A;- Original element: &apos;aplication.Rectangle&apos;&#x0D;&#x0A;- Renamed element: &apos;aplication.Program&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Rectangle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;aplication{Rectangle.java[Rectangle" matchStrategy="1" name="Program" qualified="false" references="true" similarDeclarations="false" stamp="1698005699065" textual="false" version="1.0"/>
+</session>
