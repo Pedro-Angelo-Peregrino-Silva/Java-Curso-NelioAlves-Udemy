@@ -1,7 +1,20 @@
+<<<<<<< HEAD
 INDEX VERSION 1.134+D:\GitHub\Java-Curso-NelioAlves-Udemy\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+=======
+INDEX VERSION 1.134+C:\GitHub\Java-Curso-NelioAlves-Udemy\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2697363074.index
+>>>>>>> 7f4adb39a425d0654d438b4277819042baf37f4b
 2603843810.index
+2574533216.index
+2047868876.index
+910905428.index
+2107299136.index
+3592260270.index
+1784785937.index
+1130909074.index
 1865797976.index
 3510846143.index
+<<<<<<< HEAD
 3453313424.index
 2574533216.index
 2697363074.index
@@ -9,3 +22,5 @@ INDEX VERSION 1.134+D:\GitHub\Java-Curso-NelioAlves-Udemy\eclipse-workspace\.met
 1130909074.index
 2047868876.index
 1784785937.index
+=======
+>>>>>>> 7f4adb39a425d0654d438b4277819042baf37f4b
