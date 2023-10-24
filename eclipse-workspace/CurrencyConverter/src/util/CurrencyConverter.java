@@ -2,11 +2,14 @@ package util;
 
 public class CurrencyConverter {
 	
-	public double dollarPrice;
-	public double buyDollar;
+	public double valorDollarBV;
+	public double qntDollar;
+			
 		
-	public static double calculator(double dollarPrice, double buyDollar, double paidDollar) {
-		return dollarPrice * (buyDollar * (dollarPrice + (dollarPrice * 6) / 100));
+	public static double calculator(double valorDollarBV, double qntDollar) {
+		double valorCompraDollar = valorDollarBV * (qntDollar + (qntDollar * 0.06));
+				
+		return valorCompraDollar;
 	}
 
 }
